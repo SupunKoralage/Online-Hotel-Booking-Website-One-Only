@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+header
+{
+	
+	height: 30vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+.logo img
+{
+	margin-left: auto;
+	float: left;
+	width: 200px;
+	height: auto;
+}
+.title
+{
+    position: absolute;
+    top: 144px;
+    left: 676px;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.title h1
+{
+	color: #000;
+	font-size: 70px;
+	font-family:"alex-brush";
+	text-align:center;	
+}
+.reserve
+{
+	background:#4E4E4E;
+	width: 500px;
+	margin: 0px 0px 0px 430px;
+	color: white;
+	font-size: 25px;
+	padding: 20px;
+	border-radius: 10px;
+	
+	
+		
+}
+#reserve
+{
+	margin-left: 50px;
+	
+}
+label
+{
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	
+}
+#date1
+{
+	width: 300px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    outline: 0px
+}
+#time1
+{
+	width: 3000px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    outline: 0px
+}
+
+#txtEmail
+{
+	width: 300px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    outline: 0px
+}
+h3 
+{
+	font-size: 50px;
+}
+
+#nCard
+{
+	width: 300px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    outline: 0px
+}
+
+
+#cNo
+{
+	width: 300px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    outline: 0px;
+}
+#exp
+{
+	width: 200px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    outline: 0px;
+}
+#sub
+{
+	width: 150px;
+    padding: 7px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: none;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+
+
